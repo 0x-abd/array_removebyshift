@@ -1,3 +1,4 @@
-# Smart Contract Programmer Array Remove An Element By Replacing Last | Solidity 0.8 video codes.
+# Smart Contract Programmer Array Remove An Element By Shifting | Solidity 0.8
+
 
 Pushing this because i wrote it by myself. Why not? 
